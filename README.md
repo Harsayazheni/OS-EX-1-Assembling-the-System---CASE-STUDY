@@ -1,6 +1,8 @@
-![image](https://github.com/Harsayazheni/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118708467/ae42b5fa-de1a-43d9-bc0b-87ddbf3d512e)# OS-EX-1-Assembling-the-System---CASE-STUDY
+# OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM:To Assemble the Computer System
+# AIM:To Assemble the Computer System
+
+# PROCEDURE
 
 1.Grounding oneself can be done by using an antistatic wrist-strap
 cable to prevent electrostatic discharge (ESD) which can be deadly 
