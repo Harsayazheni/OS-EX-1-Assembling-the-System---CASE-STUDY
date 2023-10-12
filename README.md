@@ -1,6 +1,8 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-# AIM:To Assemble the Computer System
+# AIM: 
+
+To Assemble the Computer System
 
 # PROCEDURE
 
@@ -154,5 +156,6 @@ onto the side of the case.
 ![image](https://github.com/Harsayazheni/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118708467/da404a68-8d42-48b1-8e26-643fdab94795)
 
 
-RESULT:
+# RESULT:
+
 The Computer System has been successfully assembled.
